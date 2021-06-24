@@ -19,7 +19,7 @@
     $ git clonehttps://github.com/freitasDavi/NLW2_ProffyApi.git
     $ git clone https://github.com/freitasDavi/NLW2_Proffy
    
-    # Instalar o node/yarn
+    # Instalar o node/yarn 
 
     $choco install yarn
 
